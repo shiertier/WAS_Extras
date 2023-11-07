@@ -1,1 +1,1 @@
-git+https://github.com/WASasquatch/cstr.git
+git+https://hub.yzuu.cf/WASasquatch/cstr.git
